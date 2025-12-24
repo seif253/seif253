@@ -1,71 +1,90 @@
-<h1 align="center">👋 Hi, I'm Abo Hassanain</h1>
-<h3 align="center">Data Analysis & Computer Science Student</h3>
+# 👋 Hi, I'm Seif Ahmed
+### 📊 Data Analyst | Python | Power BI | Excel | SQL
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/seif-ahmed-411420337/">LinkedIn</a> •
-  <a href="https://github.com/seif253">GitHub</a> •
-  <a href="abohassanain766@gmail.com">Email</a>
-</p>
+---
 
-<hr>
+## 🧠 About Me
+I am a data analyst passionate about turning raw data into meaningful insights.
+I work with Excel, Power BI, SQL, and Python to analyze data and build dashboards.
 
-<h2>🚀 About Me</h2>
-<p>
-🎓 Student at Faculty of Computers and Information<br>
-📊 Aspiring Data Analyst<br>
-💡 Interested in Data Analysis, Databases, and Problem Solving<br>
-🛠️ Building projects to apply what I learn practically
-</p>
+---
 
-<hr>
+## 🧰 Tools & Skills
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI (DAX, Dashboards)
+- Excel (Pivot Tables, Charts, power pivot)
+- SQL
+- Data Cleaning & Visualization
 
-<h2>🧠 Skills</h2>
-<ul>
-  <li><b>Programming:</b> Python(NumPy, Pandas, matplotlib, seaborn) </li>
-  <li><b>Data Analysis:</b> Excel, SQL, Power BI</li>
-  <li><b>Databases:</b> MySQL</li>
-  <li><b>Tools:</b> Git, GitHub, VS Code</li>
-</ul>
+---
 
-<hr>
+## 📂 Projects
 
-<h2>📂 Projects</h2>
+### 🌱 Plants Sales Analysis (Power BI)
+📁 **Repository:** `plants_sales_power_bi`  
+- Built an interactive Power BI dashboard  
+- Analyzed sales performance and KPIs  
+- Identified top products and trends  
 
-<h3>📊 Sales Data Analysis</h3>
-<p>
-Analyzed sales data using Excel and Power BI to extract insights and KPIs.
-</p>
-<ul>
-  <li>✔ Cleaned and transformed data</li>
-  <li>✔ Built dashboards and reports</li>
-  <li>✔ Extracted business insights</li>
-</ul>
-<p>
-🔗 <a href="https://github.com/USERNAME/REPO_NAME">View Project</a>
-</p>
+🔗 https://github.com/seif253/plants_sales_power_bi
 
-<hr>
+---
 
-<p>
-🔗 <a href="https://github.com/USERNAME/REPO_NAME">View Project</a>
-</p>
+### 📊 Sales Analysis (Excel)
+📁 **Repository:** `sales_analysis_excel`  
+- Sales data cleaning and analysis  
+- Pivot tables and charts  
+- Business insights extraction  
 
-<hr>
+🔗 https://github.com/seif253/sales_analysis_excel
 
-<h2>📈 GitHub Stats</h2>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+### 🌦️ Weather Analysis (Power BI + SQL)
+📁 **Repository:** `weathe_analysis_power_bi_sql`  
+- SQL queries for data extraction  
+- Power BI dashboards  
+- Trend and comparison analysis  
 
-<hr>
+🔗 https://github.com/seif253/weathe_analysis_power_bi_sql
 
-<h2>📫 Contact Me</h2>
-<p>
-📧 Email: abohassanain766@gmail.com <br>
-💼 LinkedIn: <a href="https://www.linkedin.com/in/seif-ahmed-411420337/">Profile</a>
-</p>
+---
 
-<p align="center">
-✨ Always learning & improving ✨
-</p>
+### ✈️ Airlines Analysis (Python)
+📁 **Repository:** `airlines-analysis-python`  
+- Data analysis using Python  
+- Visualization using matplotlib  
+- Exploratory Data Analysis (EDA)  
+
+🔗 https://github.com/seif253/airlines-analysis-python
+
+---
+
+### 🛒 Blinkit Sales Analysis (Python)
+📁 **Repository:** `blinkit-analysis-python`  
+- Sales dataset analysis  
+- Data cleaning & visualization  
+- Key insights and trends  
+
+🔗 https://github.com/seif253/blinkit-analysis-python
+
+---
+
+### 🛍️ Ecommerce Market Analysis (Python)
+📁 **Repository:** `ecommerce_market_analysis_python`  
+- Market data analysis  
+- Customer behavior insights  
+- Python-based EDA  
+
+🔗 https://github.com/seif253/ecommerce_market_analysis_python
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/seif253
+- LinkedIn: (Add your LinkedIn profile)
+
+---
+
+✨ *Always learning and improving in Data Analytics*
+
